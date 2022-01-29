@@ -10,7 +10,7 @@ README.md
  
  * Bachelor of IT
 
-![Image](Kismet-IMG_6007-black.jpg)
+![image](/Kismet-IMG_6007-black.jpg)
 
 [Here's the image link!](Kismet-IMG_6007-black.jpg)
 | Number | Colour | Size |
