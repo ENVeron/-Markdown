@@ -6,7 +6,7 @@ README.md
  
  * Student ID:113041668
  
- * Email Address: veren001@mymail.unisa.edu.au
+ * Email Address:Veren001@mymail.unisa.edu.au
  
  * Bachelor of IT
 
@@ -17,14 +17,12 @@ README.md
 | --: | :-- | :-:| 
 | 7   | Blue | Small 
 
-``` 
-def sum(a, b):
-    return a + b
-``` 
 
 
-
-
+``` python
+ def sum (a, b):
+return a + b
+```
 
 
 
